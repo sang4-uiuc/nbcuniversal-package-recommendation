@@ -1,4 +1,5 @@
 npm install - installs dependencies
+
 npm start - starts web app on port 3000
 
 Bootstrapped with Create React App. Used Jest for testing, and Router to travel between Form and Result pages.
@@ -6,7 +7,7 @@ Bootstrapped with Create React App. Used Jest for testing, and Router to travel 
 Assumptions:
 - 1GB for every additional hour above 8 hours
 - Anything above 2 devices is considered additional
-- You can only choose one option in the international plans(I reversed back on our earlier call where I said I would include multi selects, I thought it didn't make sense to pick all 3 Asia, Europe, and Rest of the World to have it more than the actual World plan)
+- You can only choose one option in the international plans(I reversed back on our earlier call where I said I would include multi selects, I kind of realized it doesn't make sense to pick all 3 Asia, Europe, and Rest of the World and have it cost more than the actual World plan)
 - *Assuming that simultaneous play is only for additional devices
 i.e. If you have 2 devices, and want simultaneous play on 2 devices, then there are no additional charges.
      If you have 3 devices, and want simultaneous play on 2 devices, then there will be 1GB additional recommendation.
