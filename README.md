@@ -15,6 +15,7 @@ i.e. If you have 2 devices, and want simultaneous play on 2 devices, then there 
 
 
 This app's architecture is pretty straight forward. App.js contains the state. Its child component Form.js modifies the state and sends it back. Its other child component Result.js receives the updated state and displays the corresponding package with cost. You can uncomment line 90 in App.js to see the state change as you input information. This is all assuming valid inputs as well. 
+Also, all recommended package names are based on cost only.. basically if you said yes to phone service at home, then you'll most likely be recommended the supreme combo package.
 
 
 As for things I could improve on, I could probably do form validation. I could also align the questions and answer boxes better. I was able to do toggle lighting when you hover over the NavBar, but I couldn't figure out how to do that as well for icon images like here on http://www.nbcuniversal.com/. You can see that in the upper right corner, when you hover over that twitter and facebook icon, it lights up as well. 
