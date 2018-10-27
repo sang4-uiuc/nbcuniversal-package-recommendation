@@ -20,5 +20,5 @@ Also, all recommended package names are based on cost only.. basically if you sa
 
 As for things I could improve on, I could probably do form validation. I could also align the questions and answer boxes better. I was able to do toggle lighting when you hover over the NavBar, but I couldn't figure out how to do that as well for icon images like here on http://www.nbcuniversal.com/. You can see that in the upper right corner, when you hover over that twitter and facebook icon, it lights up as well. 
 
-Overall, it was a fine challenge. But when I was uploading this to Github, there were some merge conflicts??? and I somehow lost the original README...
+Overall, it was a fine challenge. But when I was uploading this to Github, there were some merge conflicts??? and I somehow lost the original README and had to rewrite the whole thing...
 
